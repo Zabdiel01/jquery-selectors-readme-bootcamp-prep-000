@@ -5,4 +5,9 @@ function paragraphSelector() {
 function lastImageSelector() {
   return $('img:last')
 }
-function 
+function ninjaBabySelectro() {
+  return $('#baby-ninja')
+}
+function firstListItem() {
+  return $('#pic-list li:first-child')
+}
